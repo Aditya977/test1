@@ -1,0 +1,2 @@
+create user aditya identified by aditya;
+ grant connect, resource to aditya;
